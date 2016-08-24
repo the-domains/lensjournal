@@ -5,4 +5,10 @@ color:
   lightness: 0.4991305
   brandStrength: 0.7065722
   rhythmicContrast: 0.2848865
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Lensjournal
